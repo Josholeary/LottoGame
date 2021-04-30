@@ -1,7 +1,7 @@
 # LottoGame
 The user must guess the 6 numbers to win, getting 4 and 5 matches also yields smaller wins
 Menu with 6 full modularised options
-##Options:
+## Options:
 
 1. Selecting numbers
 2. Displaying inputted numbers
